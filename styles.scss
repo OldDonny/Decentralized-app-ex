@@ -1,0 +1,29 @@
+.nav{
+    height: 5em;
+    background-color: #EBB2AC;
+    position: fixed;;
+}
+
+
+.side-bar{
+    height: 100em;
+    background-color:#814E48;
+    position: relative;
+
+    .bar-inner{
+        background-color:salmon ;
+        height: 3em;
+        margin: 1em;
+    }
+}
+
+.mid{
+    background-color: pink;
+    height: 22em;
+    position: fixed;
+}
+
+.bottom{
+    background-color: #3A2C2A;
+    height: 3em;
+}
